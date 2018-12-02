@@ -11,6 +11,7 @@ import com.google.firebase.database.collection.LLRBNode;
 import com.jjoe64.graphview.GraphView;
 import com.google.firebase.database.*;
 
+//Comment to check
 public class AppGUI extends AppCompatActivity {
 
     private RTGraph graph1;
